@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Keyword_ref", "Keyword_ref\Keyword_ref.csproj", "{1BCAAAC0-1A44-4AE5-B5EE-7431CACC7862}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{B44A0DC3-8340-4AB1-B342-FFBD79EBC9C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{B44A0DC3-8340-4AB1-B342-FFBD79EBC9C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enum", "enum\enum.csproj", "{AB0ED9DD-3865-4061-80E0-33835A15A310}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{B44A0DC3-8340-4AB1-B342-FFBD79EBC9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B44A0DC3-8340-4AB1-B342-FFBD79EBC9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B44A0DC3-8340-4AB1-B342-FFBD79EBC9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0ED9DD-3865-4061-80E0-33835A15A310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0ED9DD-3865-4061-80E0-33835A15A310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0ED9DD-3865-4061-80E0-33835A15A310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0ED9DD-3865-4061-80E0-33835A15A310}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
